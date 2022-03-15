@@ -1,6 +1,9 @@
 # Cansat Laika
-
 _CanSat autónomo que mide un perfil atmosférico y transmite las variables e imágenes desde la estratosfera._
+
+<a>
+<img width="850" src="https://github.com/DaniSTexe/laika/blob/main/sources/oscuro.png">
+</a>
 
 
 # Implementation
