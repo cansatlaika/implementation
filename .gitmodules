@@ -1,0 +1,3 @@
+[submodule "Telemetry"]
+	path = Telemetry
+	url = https://github.com/DaniSTexe/Telemetry.git
