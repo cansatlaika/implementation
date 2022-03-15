@@ -2,7 +2,7 @@
 _CanSat autónomo que mide un perfil atmosférico y transmite las variables e imágenes desde la estratosfera._
 
 <a>
-<img width="850" src="https://github.com/DaniSTexe/laika/blob/main/sources/oscuro.png">
+<img width="850" src="https://github.com/DaniSTexe/Telemetry/blob/main/sources/layca_image.jpg">
 </a>
 
 
