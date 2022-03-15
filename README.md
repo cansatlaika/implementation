@@ -1,4 +1,9 @@
-# implementation
+# Cansat Laika
+
+_CanSat autónomo que mide un perfil atmosférico y transmite las variables e imágenes desde la estratosfera._
+
+
+# Implementation
 Repository containing all the code used for the implementation of the Cansat.
 
 A Cansat's essentially a small satellite contained in a small packaging, like the one ressembling a soda can. This Cansat was made as final project for the class of electronic instrumentation.
@@ -17,3 +22,12 @@ Cansat's Subsystems:
 The dynamics for the functionality of the Cansat were defined to be tested while it was hanging from a drone flying at a maximum height of 100 meters.
 
 In this repository is contained all the code used to implement this project. Note that not all the subsystems required of coding. The microcontroller used in the Cansat was an Arduino nano, therefore the coding was realized in Arduino IDE using the Arduino programming language. For the ground station a software interface was programmed by that respective team using Python.
+
+
+## Documentation 📖
+
+* [Document](https://github.com/DaniSTexe/laika/blob/main/Documento.pdf)
+
+## Autores ✒️
+
+* **Oscar Olejua** - *Diseño y maquetación* - [Daniexe](https://github.com/DaniSTexe)
